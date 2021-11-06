@@ -25,3 +25,14 @@ We are now collecting dubbo user info in order to help us to improve dubbo bette
 * [Dubbo developer guide(English)](http://dubbo.apache.org/books/dubbo-dev-book-en/) or [Dubbo开发手册(中文)](http://dubbo.apache.org/books/dubbo-dev-book/) - Detailly introduce the design principal, extension mechanisms, code conventions, version control and building project, etc.
 * [Dubbo admin manual(English)](http://dubbo.apache.org/books/dubbo-admin-book-en/) or [Dubbo管理手册(中文)](http://dubbo.apache.org/books/dubbo-admin-book/) - Describe how to use Dubbo registry and admin-console.
 
+
+
+-- -
+
+## 说明
+
+```text
+本文是在dubbo(v2.6.9)的源码上加上自己理解后的注释。
+-- 其中大部分注释是来自于 《享学课堂》 `Jack` 老师的源码手稿
+```
+
